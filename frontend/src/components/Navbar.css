@@ -1,0 +1,16 @@
+nav{
+    background-color: #3c3c3c;
+}
+nav div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+nav a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 1rem;
+    margin-left: 2rem;
+    font-family: 'Arial', sans-serif;
+}
